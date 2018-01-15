@@ -1,1 +1,1 @@
-Learning Flask: This is a BucketList web application built using with Flask.
+Learning Flask: This is a web application that tracks the number of visits to a website... built using with Flask.
